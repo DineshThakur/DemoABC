@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         NSLog("ABC How are you, I am good.");
+        
+        NSLog("Dinu How are you, I am good.");
+
     }
 
 
